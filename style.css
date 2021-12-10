@@ -7,6 +7,10 @@
   background-attachment: fixed;
 }
 
+.fs-2 {
+  padding: 1% 10%;
+}
+
 .containerOfCards {
   padding: 1% 10%;
 }
